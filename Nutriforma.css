@@ -1,0 +1,39 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+header
+{
+overflow: hidden;
+}
+title
+{
+    background-image: url(/Imagens/logo.nutriforma.png);
+}
+.image1
+{
+   margin: auto;
+   float: left;
+}
+.Login
+{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+.container
+{
+    overflow: hidden;
+    background-color: #a8ecc9;
+}
+li
+{
+    float: left;
+    list-style: none;
+    margin-right: 70px;
+    margin-top: 38px;
+    color: #4b504e
+}
